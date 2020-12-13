@@ -1,0 +1,32 @@
+.cuerpo_perfil{
+    
+    width: 100%;
+margin: 1px;
+height: auto;
+padding-left: 10%;
+padding-right: 10%;
+padding-top: 5%;
+}
+
+.d_body{
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+
+.d_foto{
+ text-align: center;
+    width: 100%;
+    height: 10%;
+
+}
+
+.d_foto img{
+    border-radius: 100%;
+    width: 20%;
+    height: 20%;
+}
+
+.sele{
+    width: 200px;
+}

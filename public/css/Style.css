@@ -1,0 +1,104 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    color: dimgray;
+    line-height: 1.5em;
+    
+}
+
+header{
+    
+    background: green;
+    width: auto;
+    height: 60px;
+    display: flex;
+    position: relative;
+    width: auto;
+    
+}
+.logo{
+    height: 30px;
+    padding: 12px;
+}
+.img_foto_perfil{
+    height: 42px;
+    width: 42px;
+    padding-top: 9px;
+}
+.perfil{
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+
+.componente_boton{
+    width: 30%;
+    position: relative;
+    text-align: right;
+    padding-top: 15px;
+}
+.perfil_usuario{
+    
+    width: 70%;
+    position:relative;
+    text-align:right;
+    padding-right: 5px;
+}
+
+.cuerpo{
+    width: 100%;
+    display: flex;
+    height: 100%;
+    
+}
+
+.menu{
+    padding-top: 50px;
+    width: 20%;
+    background: blue;
+    
+
+}
+
+
+
+nav ul {
+       
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		padding-right: 20px;
+       
+    
+	}
+	
+		nav ul li {
+            padding-left: 12px;
+            width: 100%;
+			display:flex;
+			line-height: 50px;
+             border-radius: 20px;
+            
+		}
+			
+			nav ul li a {
+                width: 100%;
+				display: flex;
+				padding: 0 10px;
+				text-decoration: none;
+                 border-radius: 20px;
+               padding-left: 60px;
+                
+			}
+			
+				nav ul li a:hover {
+					background: #0b76a6;
+				}
+
+.cuerpo_contenido{
+    
+    width: 80%;
+    background: red;
+    
+}
